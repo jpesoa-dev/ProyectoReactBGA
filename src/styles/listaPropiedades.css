@@ -1,0 +1,13 @@
+.lista-propiedades {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 80%;
+  text-align: center;
+  justify-content: center;
+}
+
+.SinResultados {
+  margin-top: 20px;
+  font-size: 20px;
+}
